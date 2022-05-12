@@ -11,6 +11,9 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ⏰ WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--
 **kiichiro3290/kiichiro3290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
